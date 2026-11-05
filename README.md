@@ -260,4 +260,4 @@
 </table>
 
 ## 🛠️ Install
-[![Click here to add this repo to SignalRGB](https://raw.githubusercontent.com/SRGBmods/QMK-Images/main/images/add-to-signalrgb.png)](https://srgbmods.net/s?p=addon/install?url=https://github.com/qiangqiang101/Skydimo-Plugin-for-SignalRGB)
+[![Click here to add this repo to SignalRGB](https://raw.githubusercontent.com/SRGBmods/QMK-Images/main/images/add-to-signalrgb.png)](https://go.signalrgb.com/app/addon/install?url=https://github.com/qiangqiang101/Skydimo-Plugin-for-SignalRGB)
